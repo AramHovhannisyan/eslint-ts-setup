@@ -1,2 +1,2 @@
 const str = "App.ts Works";
-console.info(str, 1111);
+console.info(str);
